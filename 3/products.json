@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Lentejas",
+        "description": "Sanas",
+        "price": 1500,
+        "stock": 25,
+        "code": "L123",
+        "thumbnail": [],
+        "id": "d7aa1993a5133ac92b86"
+    },
+    {
+        "title": "Yerba mate",
+        "description": "Del norte pa",
+        "price": 3000,
+        "stock": 22,
+        "code": "Y243",
+        "thumbnail": [],
+        "id": "42be4873f01800839f31"
+    },
+    {
+        "title": "Azucar",
+        "description": "La sonrisa",
+        "price": 400,
+        "stock": 14,
+        "code": "A433",
+        "thumbnail": [],
+        "id": "3d1b385b2d3f55a71e5c"
+    },
+    {
+        "title": "Sal",
+        "description": "Da sabor rico a la comida",
+        "price": 1000,
+        "stock": 30,
+        "code": "S727",
+        "thumbnail": [],
+        "id": "0f60fd943b332f5801ee"
+    },
+    {
+        "title": "Picante",
+        "description": "Te vas a quemar la boca",
+        "price": 5000,
+        "stock": 5,
+        "code": "P054",
+        "thumbnail": [],
+        "id": "b3dc056a713898a0c2ec"
+    },
+    {
+        "title": "Queso",
+        "description": "Mozarella",
+        "price": 10000,
+        "stock": 12,
+        "code": "Q420",
+        "thumbnail": [],
+        "id": "563f13c09bc9cfb2e4e1"
+    },
+    {
+        "title": "Dulce de leche",
+        "description": "La Serenisima",
+        "price": 7500,
+        "stock": 3,
+        "code": "D120",
+        "thumbnail": [],
+        "id": "4048e612192d363148ff"
+    },
+    {
+        "title": "Maple x30 de huevos",
+        "description": "Blancos",
+        "price": 15000,
+        "stock": 3,
+        "code": "H600",
+        "thumbnail": [],
+        "id": "48543a03751bcc31c57d"
+    },
+    {
+        "title": "Manteca",
+        "description": "La Serenisima",
+        "price": 20000,
+        "stock": 5,
+        "code": "M004",
+        "thumbnail": [],
+        "id": "a24cfc1daed582becef3"
+    },
+    {
+        "title": "Pan Lactal",
+        "description": "Bimbo rodajas finas",
+        "price": 9000,
+        "stock": 10,
+        "code": "P123",
+        "thumbnail": [],
+        "id": "62f4690be999a3691e4e"
+    }
+]
