@@ -1,0 +1,16 @@
+<h1>Usuario</h1>
+
+{{#if userFound}}
+<div>
+    <p id="id">{{id}}</p>
+    <p>first_name: {{first_name}}</p>
+    <p>last_name: {{last_name}}</p>
+    <p>age: {{age}}</p>
+    <p>email: {{email}}</p>
+    <p>rol: {{rol}}</p>
+    <p>last connection: {{last_connection}}</p>
+    <button id="btn-borrar">Borrar</button>
+</div>
+{{else}}
+<p>Usuario no encontrado</p>
+{{/if}}

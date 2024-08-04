@@ -1,0 +1,16 @@
+<h1>Carrito</h1>
+
+<input type="hidden" id="cid" value="{{cid}}">
+
+
+{{#each productos}}
+<div>
+    <p>Titulo: {{this.title}}</p>
+    <p>Descripcion: {{this.description}}</p>
+    <p>Precio: {{this.price}}</p>
+    <p>Stock: {{this.stock}}</p>
+    <img src="{{this.img}}" alt="Imagen de {{this.title}}">
+</div>
+
+<button id="comprar">Comprar</button>
+{{/each}}

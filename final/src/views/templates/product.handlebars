@@ -1,0 +1,24 @@
+<h1>Producto</h1>
+
+{{#if prodFound}}
+<div>
+    <h2>{{title}}</h2>
+    <p>{{description}}</p>
+    <p>{{stock}}x stock</p>
+    <p>Code: {{code}}</p>
+    <p>${{price}}</p>
+
+    {{#if isLoggedin}}
+    <input type="hidden" id="pid" value="{{pid}}">
+    <input type="hidden" id="cid" value="{{cid}}">
+    <button id="add-cart">Añadir al carrito</button>
+    {{/if}}
+
+</div>
+{{else}}
+<h2>Producto no encontrado</h2>
+{{/if}}
+
+{{#if isLoggedin}}
+<p><a href="/cart">Ver carrito</a></p>
+{{/if}}
